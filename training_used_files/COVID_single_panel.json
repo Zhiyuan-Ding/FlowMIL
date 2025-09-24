@@ -1,0 +1,30 @@
+{
+  "tube_1_model_list": [
+    "./training_used_files/single_panel_models/20250207-061540",
+    "./training_used_files/single_panel_models/20250207-132723",
+    "./training_used_files/single_panel_models/20250207-183409",
+    "./training_used_files/single_panel_models/20250208-003037",
+    "./training_used_files/single_panel_models/20250208-055253"
+  ],
+  "tube_2_model_list": [
+    "./training_used_files/single_panel_models/20250218-225204",
+    "./training_used_files/single_panel_models/20250219-040117",
+    "./training_used_files/single_panel_models/20250219-085123",
+    "./training_used_files/single_panel_models/20250219-134913",
+    "./training_used_files/single_panel_models/20250219-202656"
+  ],
+  "tube_3_model_list": [
+    "./training_used_files/single_panel_models/20250213-002929",
+    "./training_used_files/single_panel_models/20250213-081210",
+    "./training_used_files/single_panel_models/20250213-180348",
+    "./training_used_files/single_panel_models/20250214-023040",
+    "./training_used_files/single_panel_models/20250214-113303"
+  ],
+  "tube_4_model_list": [
+    "./training_used_files/single_panel_models/20250221-001507",
+    "./training_used_files/single_panel_models/20250221-064053",
+    "./training_used_files/single_panel_models/20250221-142731",
+    "./training_used_files/single_panel_models/20250221-224507",
+    "./training_used_files/single_panel_models/20250222-061153"
+  ]
+}

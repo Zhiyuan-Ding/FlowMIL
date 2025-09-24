@@ -1,0 +1,272 @@
+Sample ID (starting number of fcs files),Severity,Age,Batch,Days from symptom onset
+4000,Healthy,49,1,NA
+4001,Healthy,36,1,NA
+4002,Healthy,26,1,NA
+4003,Healthy,64,1,NA
+4004,Healthy,25,1,NA
+4005,Healthy,60,1,NA
+4006,Healthy,59,1,NA
+4007,Healthy,53,1,NA
+4008,Healthy,36,1,NA
+4009,Healthy,44,1,NA
+4010,Healthy,36,1,NA
+4011,Healthy,30,1,NA
+4012,Healthy,34,1,NA
+4013,Healthy,48,1,NA
+4014,Healthy,60,1,NA
+4015,Healthy,43,1,NA
+4016,Healthy,22,1,NA
+4017,Healthy,60,1,NA
+4018,Healthy,60,1,NA
+4019,Healthy,24,1,NA
+4020,Healthy,53,1,NA
+4021,Healthy,51,1,NA
+4022,Healthy,58,1,NA
+4023,Healthy,50,1,NA
+4024,Healthy,50,1,NA
+4025,Healthy,61,1,NA
+4026,Healthy,28,1,NA
+4027,Healthy,30,1,NA
+4028,Healthy,49,1,NA
+4029,Healthy,58,1,NA
+4030,Critical (ventilation),55,1,113
+4031,Severe (no venitlation),62,1,81
+4032,Critical (ventilation),66,1,87
+4033,Severe (no venitlation),75,1,106
+4034,Severe (no venitlation),79,1,35
+4035,Severe (no venitlation),51,1,91
+4036,Critical (ventilation),86,1,28
+4037,Critical (ventilation),67,1,33
+4038,Severe (no venitlation),74,1,17
+4039,Severe (no venitlation),86,1,16
+4040,Mild,39,1,28
+4041,Mild,54,1,33
+4042,Moderate,67,1,33
+4043,Mild,45,1,33
+4044,Mild,58,1,NA
+4045,Mild,45,1,NA
+4046,Moderate,38,1,63
+4047,Mild,32,1,73
+4048,Healthy,64,1,NA
+4049,Healthy,59,1,NA
+4050,Healthy,62,1,NA
+4051,Healthy,36,1,NA
+4052,Healthy,64,1,NA
+4053,Healthy,67,1,NA
+4054,Healthy,50,1,NA
+4055,Healthy,25,1,NA
+4056,Healthy,69,1,NA
+4057,Healthy,67,1,NA
+4058,Healthy,61,1,NA
+4059,Healthy,45,1,NA
+4060,Healthy,70,1,NA
+4061,Healthy,29,1,NA
+4062,Healthy,59,1,NA
+4063,Healthy,48,1,NA
+4064,Healthy,69,1,NA
+4065,Healthy,53,1,NA
+4066,Healthy,46,1,NA
+4067,Healthy,62,1,NA
+4068,Healthy,49,1,NA
+4069,Healthy,64,1,NA
+4070,Healthy,56,1,NA
+4071,Healthy,68,1,NA
+4072,Healthy,58,1,NA
+4073,Healthy,57,1,NA
+4074,Healthy,56,1,NA
+4075,Healthy,50,1,NA
+4076,Healthy,66,1,NA
+4077,Healthy,55,1,NA
+4078,Critical (ventilation),57,1,33
+4079,Severe (no venitlation),69,1,31
+4080,Severe (no venitlation),64,1,77
+4081,Critical (ventilation),68,1,17
+4082,Critical (ventilation),74,1,30
+4083,Critical (ventilation),54,1,28
+4084,Critical (ventilation),51,1,44
+4085,Critical (ventilation),59,1,25
+4086,Critical (ventilation),78,1,29
+4087,Severe (no venitlation),67,1,38
+4088,Mild,26,1,35
+4089,Moderate,65,1,35
+4090,Mild,37,1,40
+4091,Moderate,77,1,45
+4092,Moderate,57,1,78
+4093,Moderate,44,1,31
+4094,Moderate,51,1,110
+4095,Moderate,50,1,29
+4096,Healthy,53,1,NA
+4097,Healthy,53,1,NA
+4098,Healthy,63,1,NA
+4099,Healthy,64,1,NA
+4100,Healthy,51,1,NA
+4101,Healthy,63,1,NA
+4102,Healthy,60,1,NA
+4103,Healthy,30,1,NA
+4104,Healthy,29,1,NA
+4105,Healthy,23,1,NA
+4106,Healthy,24,1,NA
+4108,Healthy,49,1,NA
+4109,Healthy,32,1,NA
+4110,Healthy,19,1,NA
+4111,Healthy,40,1,NA
+4112,Healthy,36,1,NA
+4113,Healthy,48,1,NA
+4114,Healthy,20,1,NA
+4115,Healthy,30,1,NA
+4116,Healthy,31,1,NA
+4117,Healthy,20,1,NA
+4118,Healthy,47,1,NA
+4119,Healthy,46,1,NA
+4120,Healthy,48,1,NA
+4121,Critical (ventilation),63,1,24
+4122,Severe (no venitlation),57,1,83
+4124,Critical (ventilation),64,1,15
+4125,Severe (no venitlation),48,1,102
+4126,Critical (ventilation),53,1,21
+4127,Severe (no venitlation),65,1,110
+4128,Critical (ventilation),73,1,58
+4129,Critical (ventilation),64,1,33
+4130,Critical (ventilation),43,1,18
+4131,Severe (no venitlation),61,1,65
+4132,Moderate,52,1,50
+4133,Mild,39,1,52
+4134,Mild,41,1,78
+4135,Moderate,65,1,129
+4136,Healthy,NA,1 and 2,NA
+4137,Healthy,54,2,NA
+4138,Healthy,28,2,NA
+4139,Healthy,26,2,NA
+4140,Healthy,42,2,NA
+4141,Healthy,25,2,NA
+4142,Healthy,39,2,NA
+4143,Healthy,63,2,NA
+4144,Healthy,60,2,NA
+4145,Healthy,62,2,NA
+4146,Healthy,60,2,NA
+4147,Healthy,65,2,NA
+4148,Healthy,51,2,NA
+4149,Healthy,48,2,NA
+4150,Healthy,31,2,NA
+4151,Healthy,44,2,NA
+4152,Healthy,56,2,NA
+4153,Healthy,49,2,NA
+4154,Healthy,49,2,NA
+4155,Healthy,50,2,NA
+4156,Healthy,60,2,NA
+4157,Healthy,25,2,NA
+4158,Healthy,30,2,NA
+4159,Healthy,24,2,NA
+4160,Healthy,59,2,NA
+4161,Healthy,53,2,NA
+4162,Healthy,27,2,NA
+4163,Healthy,37,2,NA
+4164,Healthy,52,2,NA
+4165,Healthy,48,2,NA
+4166,Healthy,48,2,NA
+4167,Critical (ventilation),74,2,66
+4168,Critical (ventilation),80,2,89
+4169,Severe (no venitlation),64,2,91
+4170,Critical (ventilation),61,2,38
+4171,Critical (ventilation),73,2,36
+4172,Critical (ventilation),72,2,30
+4173,Severe (no venitlation),64,2,96
+4174,Severe (no venitlation),39,2,184
+4175,Severe (no venitlation),53,2,94
+4176,Severe (no venitlation),41,2,32
+4177,Mild,58,2,36
+4178,Mild,59,2,34
+4179,Moderate,54,2,35
+4180,Mild,39,2,37
+4181,Moderate,59,2,70
+4182,Moderate,45,2,81
+4183,Moderate,26,2,79
+4184,Moderate,59,2,83
+4185,Healthy,50,2,NA
+4186,Healthy,58,2,NA
+4187,Healthy,64,2,NA
+4188,Healthy,56,2,NA
+4189,Healthy,27,2,NA
+4190,Healthy,33,2,NA
+4191,Healthy,64,2,NA
+4192,Healthy,65,2,NA
+4193,Healthy,53,2,NA
+4194,Healthy,68,2,NA
+4195,Healthy,63,2,NA
+4196,Healthy,65,2,NA
+4197,Healthy,58,2,NA
+4198,Healthy,59,2,NA
+4199,Healthy,30,2,NA
+4200,Healthy,55,2,NA
+4201,Healthy,60,2,NA
+4202,Healthy,60,2,NA
+4203,Healthy,59,2,NA
+4204,Healthy,67,2,NA
+4205,Healthy,64,2,NA
+4206,Healthy,37,2,NA
+4207,Healthy,48,2,NA
+4208,Healthy,60,2,NA
+4209,Healthy,61,2,NA
+4210,Healthy,54,2,NA
+4211,Healthy,50,2,NA
+4212,Healthy,66,2,NA
+4213,Healthy,57,2,NA
+4214,Healthy,63,2,NA
+4215,Critical (ventilation),67,2,87
+4216,Severe (no venitlation),71,2,16
+4217,Severe (no venitlation),53,2,34
+4220,Severe (no venitlation),39,2,92
+4221,Critical (ventilation),50,2,33
+4222,Severe (no venitlation),37,2,106
+4223,Critical (ventilation),57,2,27
+4224,Critical (ventilation),69,2,16
+4225,Moderate,22,2,34
+4226,Mild,27,2,34
+4227,Moderate,31,2,42
+4228,Moderate,56,2,41
+4229,Moderate,40,2,74
+4230,Mild,35,2,57
+4231,Moderate,24,2,35
+4232,Mild,38,2,71
+4233,Healthy,69,2,NA
+4234,Healthy,51,2,NA
+4235,Healthy,63,2,NA
+4236,Healthy,53,2,NA
+4237,Healthy,57,2,NA
+4238,Healthy,49,2,NA
+4239,Healthy,58,2,NA
+4240,Healthy,49,2,NA
+4241,Healthy,45,2,NA
+4242,Healthy,21,2,NA
+4243,Healthy,33,2,NA
+4244,Healthy,18,2,NA
+4245,Healthy,35,2,NA
+4246,Healthy,22,2,NA
+4247,Healthy,22,2,NA
+4248,Healthy,21,2,NA
+4249,Healthy,19,2,NA
+4250,Healthy,46,2,NA
+4251,Healthy,46,2,NA
+4252,Healthy,50,2,NA
+4253,Healthy,46,2,NA
+4254,Healthy,28,2,NA
+4255,Healthy,18,2,NA
+4256,Healthy,30,2,NA
+4257,Healthy,48,2,NA
+4258,Healthy,50,2,NA
+4259,Healthy,50,2,NA
+4260,Healthy,44,2,NA
+4261,Critical (ventilation),64,2,50
+4262,Critical (ventilation),63,2,16
+4264,Severe (no venitlation),73,2,52
+4265,Severe (no venitlation),68,2,17
+4266,Critical (ventilation),73,2,53
+4267,Critical (ventilation),65,2,38
+4268,Severe (no venitlation),49,2,36
+4269,Mild,53,2,47
+4270,Moderate,32,2,46
+4271,Mild,29,2,54
+4272,Mild,31,2,61
+4273,Moderate,32,2,28
+4274,Moderate,67,2,24
+4275,Moderate,28,2,127

@@ -1,0 +1,25 @@
+name: flowmil_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  # - tensorflow=2.15.0=cuda120py311h5cbd639_3
+  - numpy=1.26.4
+  - scipy=1.13.*
+  - pandas=2.2.*
+  - scikit-learn=1.7.*
+  - umap-learn
+  - matplotlib=3.8.*
+  - seaborn=0.13.*
+  - h5py
+  - openpyxl
+  - pip
+  - pip:
+      - FlowIO
+      - FlowUtils
+      - lifelines
+      - --extra-index-url=https://pypi.nvidia.com
+      - tensorflow[and-cuda]==2.15.0
+      - ml-dtypes==0.2.*
+      - tensorflow-addons==0.23.*
+
